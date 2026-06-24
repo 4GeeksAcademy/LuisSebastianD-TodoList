@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: rgb(209, 172, 172);
+}
+
+.card {
+    box-shadow:
+        0 10px 0 -6px white,
+        0 10px 5px -5px rgb(210, 210, 210),
+        0 20px 1px -11px white,
+        0 20px 0 -10px rgb(210, 210, 210),
+        0px 10px 20px 0 rgb(212, 212, 212);
+}
